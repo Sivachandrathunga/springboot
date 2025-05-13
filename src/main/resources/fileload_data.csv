@@ -1,0 +1,8 @@
+FileName,status,recordCount,errors
+siva1.csv,NEW,10,Error1
+jo1.csv,NEW,15,Error2
+pavan1.csv,PROCESSED,20,Error43
+nani.csv,FAILED,18,Error4
+file11,new,41,Errror19
+sivayadav,success,1,error0
+Bhavana,success,1,error1
